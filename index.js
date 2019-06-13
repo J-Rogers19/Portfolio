@@ -34,7 +34,7 @@ function navAnimation(selection) {
 }
 
 $(function() {
-  var year = new Date().getFullYear()
+  
   navAnimation('#0');
   showDefine();
   
